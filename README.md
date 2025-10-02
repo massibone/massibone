@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @massibone
-- 👀 I’m interested in computer,photography,mathematics, programming e machinelearning
+- 👀 I’m interested in computer,photography,mathematics, programming e machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://massibone.github.io/Portfolio_Website/
